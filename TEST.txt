@@ -1,5 +1,6 @@
 pierwszy wiersz
 drugi tez test stash :)
+drugi taki jak wyzej 12:58 06.10.2017
 drugi wiersz
 //trzeci wiersz (zakomentowa³em w trzecim commicie)
 wiersz po trzecim ale przed czwartym
