@@ -1,4 +1,5 @@
 pierwszy wiersz
 drugi wiersz
 //trzeci wiersz (zakomentowa³em w trzecim commicie)
+wiersz po trzecim ale przed czwartym
 czwart wiersz (drugi commit)
