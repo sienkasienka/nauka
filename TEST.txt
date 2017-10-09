@@ -2,7 +2,14 @@ pierwszy wiersz
 drugi tez test stash :)
 drugi taki jak wyzej 12:58 06.10.2017
 drugi wiersz
-//trzeci wiersz (zakomentowa³em w trzecim commicie)
-wiersz po trzecim ale przed czwartym
-robie to na drugim lokalny branchu
+
+
+super duzo tych testow tutaj mam no i co teraz 10:10 09.10.2017
+
+
+
+
 czwart wiersz (drugi commit)
+
+
+super duzo tych testow tutaj mam no i co teraz 10:10 09.10.2017
